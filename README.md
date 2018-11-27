@@ -9,4 +9,4 @@ Acagild session 26.2 assignment
 
 its correspond number of customers. Order the result by the number of customers (descending).
 
-Ans 4 ->
+Ans 4. ->
